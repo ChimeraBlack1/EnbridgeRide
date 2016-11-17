@@ -1,0 +1,60 @@
+.header {
+    height: 60px;
+    width: 100%;
+    background-color: cornflowerblue;
+    position: fixed;
+}
+
+.centered {
+    text-align: center;
+}
+
+.nav a {
+    margin-top: 10px;
+    color: #fff;
+}
+
+.nav-item-right {
+    float: right;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    padding-top: 100px;
+    text-align: center;
+}
+
+
+.footer {
+    height: 60px;
+    width: 100%;
+    background-color: cornflowerblue;
+    position: fixed;
+    top: 92%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+}
+
+.footer a {
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
